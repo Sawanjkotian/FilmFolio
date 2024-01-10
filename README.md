@@ -13,7 +13,7 @@
 <li class="has-line-data" data-line-start="15" data-line-end="16"><strong>React:</strong> The project is developed using the React library for efficient and dynamic user interfaces.</li>
 <li class="has-line-data" data-line-start="16" data-line-end="18"><strong>IMDb API:</strong> Utilized the IMDb API to fetch real-time movie data, ensuring accurate and up-to-date information.</li>
 </ul>
-<h2 class="code-line" data-line-start=18 data-line-end=19 ><a id="Getting_Started__18"></a>Getting Started \</h2>
+<h2 class="code-line" data-line-start=18 data-line-end=19 ><a id="Getting_Started__18"></a>Getting Started</h2>
 <p class="has-line-data" data-line-start="20" data-line-end="21">Follow these steps to run the project locally:</p>
 <ol>
 <li class="has-line-data" data-line-start="22" data-line-end="37">Clone the repository:<pre><code class="has-line-data" data-line-start="24" data-line-end="37" class="language-bash">git <span class="hljs-built_in">clone</span> https://github.com/Sawanjkotian/IMDb-Clone
