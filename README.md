@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="IMDb_Clone_0"></a>IMDb Clone</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="IMDb_Clone_0"></a>FilmFolio</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Overview_2"></a>Overview</h2>
 <p class="has-line-data" data-line-start="4" data-line-end="5">IMDb Clone is a movie information web application built using React. This project fetches data from the IMDb API, allowing users to explore a wide range of movies, view details, and search for their favorite films.</p>
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="Features_6"></a>Features</h2>
